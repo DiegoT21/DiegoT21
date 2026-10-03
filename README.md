@@ -31,3 +31,4 @@ Construyo aplicaciones web y móviles de punta a punta, integraciones entre sist
 ### 📫 Contacto
 
 - Portafolio: [portfolio-diego-torres.vercel.app](https://portfolio-diego-torres.vercel.app)
+- LinkedIn: [Diego O. Torres](https://www.linkedin.com/in/diego-o-torres-41a1612a9)
